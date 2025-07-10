@@ -4,32 +4,45 @@ version 2
 :: gfx/
 :: gfx/0.gfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA3LTA2IDIxOjU3OjAzIixtb2RpZmllZD0iMjAyNS0w
-Ny0wNyAwMjo0MTozMyIscmV2aXNpb249NDIwXV1sejQABAIAAM8yAADzIXtbMF09e2JtcD1weHUA
-QyAQEATwVgcQB8AX0BfABxAH8FYsZmxhZ3M9MCxwYW5feAgAynk9MCx6b29tPTV9LD4A8EQgKAAo
+Ny0xMCAxODowMDozOCIscmV2aXNpb249NzA4XV1sejQA2AQAAM83AADzIXtbMF09e2JtcD1weHUA
+QyAQEATwVgcQB8AX0BfABxAH8FYsZmxhZ3M9MCxwYW5feAgAynk9MCx6b29tPTl9LD4A8EQgKAAo
 cAkPHQ8gDx0IkAkPGS8dDSAfFFAPGB8dDTAELxQwCA8dHRAfFBQuEA8YCC0APhQuAAg9XgQuAB0O
 HQ4kLgQOEA4NDg0ORC4EDgBOJB4EHggA-w4ULgQuIE4ELgQOUE40kAkQCbAJEAmQGQ8ZEAwZMKMA
 HKJgCAAIACiQCAAIpwDxLQlQHxQgDS8dDxkJIC8UBDANHx0PGCAvFBQeEB0PHQgQLhQ_AC0IDxgA
 LgRePQgQDgQuJA4dDh0ADgQuRKsA8gkADgQeBB4kThAuBC4UTjAOBC4ETlA0ToCnAH8PGRlwGQxw
 pQAdXxgQKKAYoQBPAUQBXwngDBkgoQAcL-DwMQCw-wFodYAPIAVOcA4FDsAFDvBGQAAd4zY3wBeg
 B1AHcBcAFwAXBgCfB1AHoBfAN-A2TgAd-wdFFxAXkAcwB7AX0BewBzAHkBcQF-BFRgAdoUcX8AwH
-ABcAB5AGAF-wDBfwR3oBHg8xAK--Bv8bDRyuDxoODAoMvg0czh3_AA3_knUAHg8xAP----------
--------------------------------------------------8RQbT01fX0=
+ABcAB5AGAF-wDBfwR3oBHg8xAK--Bv8bDRyuDxoODAoMvg0czh3_AA3_knUAHg8xAP--zcIGPxmQ
+LgkOCR5gDgkCAEIeUA4ECwD-RwQOUA8hDlQODUAdDw9eDB0wDSwPIBwLLA1ADXwNQAQODVwNDgQg
+BC5dLgQADQwOFF4EDgwNAA0MDRReBBwNAB0QBC8fBBoOHVAEKgQaDxRwCC8VBBdAogAcH1ChABEg
+UA2hACgNQKEA8QRgDVwNUAQeXR4EIAS_BBANDA4EoQBAEA0cBKAANyAdDp8AvwRwDxQvFQQYDxQw
+QwFkAqIAERRDAf8OHAReFA0MDRAdDh8fBCoEEB0wDxQaBCoEgB8VBCijACAf8NsC9REeCADxCy5Q
+Hx9eHVCdQA8hDw99DA8hQAt9C0AEDnsOLAIjAAvNAlALAAsMC80CsAsAGxAELQQdDhtQBwBADxRw
+Ci0CD8wCMQ_SAAhSYHtQBJ6_AhMLvgIxCxALvgJGCyAbDpAAA70CHhq9Ag8lAUcjEAuvAiALAJMA
+8AEUCwwLEBsOHQQtBBAbMA8UCQAArgIfKq4C-x8hcB5-ATIOQD4IAFAJDjC_UIQBZQ8gLw8-HwsA
+AQgAICEPEQDxBl8PDyFgBH1QBA4ETgQOBEANDw8EXgkAgA5fHw4PDw1QCAD-AQ1gDiwPFBwLYAsv
+FRsqCzC9Ah0PoQAsMHB9kMkNEAQGAFAeBIAEHQYA-wYNLw8OBJAOPaAOHx8OsA8UHxUPFGA7AV2T
+cG0OBHAELgQeBgD-C2AOPx8NDw8NcA4fHx4MDQxwDhwODxQODBtQOgEjL-Dw0QLlEB5IBBJwjAEG
+YgSgPjC_MD8fLw8PIIcBMlAPH5ABBBEA8QFwDV8PDWAEDm1gBB4ELgRwBgD-EIANDA0-Hw5wCw0L
+HhsOYB8UCw4KDhsOYAovFRooChDMAh0PnAAqUXB9cAQOxAITHgYAtx0EkAQOLA2gPQ6wyQIfQDMB
+WwDHAgQDBCAwBDAGUQwNMA0M_wO-UA0OWw5wDxQbCis0ASUv8PAxAP----------------------
+--------------------------_yUG09OX19
 :: gfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA3LTA3IDAyOjQxOjMzIixtb2RpZmllZD0iMjAyNS0w
-Ny0wNyAwMjo0MTozMyJdXQ==
+Ny0xMCAxODowMDozOCJdXQ==
 :: map/
 :: map/0.map
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA3LTA2IDIxOjU3OjAzIixtb2RpZmllZD0iMjAyNS0w
-Ny0wNyAwMjo0MTozMyIscmV2aXNpb249MzkzXV1sejQAUgEAAFAAAQDxCXt7Ym1wPXVzZXJkYXRh
+Ny0xMCAxODowMDozOCIscmV2aXNpb249NjUxXV1sejQAYAEAAF0AAQDxCXt7Ym1wPXVzZXJkYXRh
 KCJpMTYiLDEyOAQAXyIwMDEwBAD-------------------------------------------------
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
-----------------------------------------------------------------6aEiKSxwYW5f
-eD0wCADSeT0wLHRpbGVfaD0xNgoAEHcKALB6b29tPTAuMjV9fQ==
+----------------------------------------------------------------6fEIIiksaGlk
+ZGVuPWZhbHNlLHBhbl94PTAIANJ5PTAsdGlsZV9oPTE2CgAQdwoAsHpvb209MC4yNX19
 :: map/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA3LTA3IDAyOjQxOjMzIixtb2RpZmllZD0iMjAyNS0w
-Ny0wNyAwMjo0MTozMyJdXQ==
+Ny0xMCAxODowMDozOCJdXQ==
 :: pal/
 :: pal/0.pal
 b64$LS1bW3BvZCxiZ19jb2xvcj0wLGJsYWNrZXN0X2NvbG9yPTAsY3JlYXRlZD0iMjAyNS0wNy0w
@@ -53,48 +66,48 @@ MTA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzAxMDAwMDAxMDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3
 MDEwMDAwMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAwIiksbG9ja2VkPXtbMF09dHJ1ZSx0
 cnVlLHRydWUsdHJ1ZSx0cnVlLHRydWUsdHJ1ZSx0cnVlLHRydWUsdHJ1ZSx0cnVlLHRydWUsdHJ1
 ZSx0cnVlLHRydWUsdHJ1ZSx0cnVlLHRydWUsdHJ1ZSx0cnVlLHRydWUsdHJ1ZSx0cnVlLHRydWUs
-dHJ1ZSx0cnVlLHRydWUsdHJ1ZSx0cnVlLHRydWUsdHJ1ZSx0cnVlLGZhbHNlLGZhbHNlLGZhbHNl
-LGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZh
-bHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNl
-LGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZh
-bHNlfSxtb2RpZmllZD0iMjAyNS0wNy0wNyAwMjo0MTozMyIsb2twYWxfdmVyc2lvbj0iMS4yLjIi
-LHBpY2tlcnNfbW9kZT0ibGluZWFyX2h1ZSIscmV2aXNpb249Mzg3LHRlc3RfY3ViZV9jb2xvcnM9
-e1swXT17MTUsMzEsNH0sezMxLDQsMjB9LHs0LDIwLDIxfSx7MTAsOSwyNX0sezksMjUsMjR9LHs4
-LDI0LDJ9LHsyNiwxMSwyN30sezExLDI3LDN9LHsyNywzLDE5fSx7MjgsMTcsMTl9LHsyOCwxMiwx
-Nn0sezEyLDE2LDF9LHs2LDI5LDEzfSx7MjksMTMsMTh9LHsxMywxOCwxfSx7NywyMywxNH0sezIz
-LDE0LDEzfSx7MTQsMzAsMTh9LHs3LDYsMjJ9LHs2LDIyLDV9LHsyMiw1LDIxfSx7MSwxLDF9LHsx
-LDEsMX0sezEsMSwxfX0sdGVzdF9tb2RlPSJjdWJlcyIsdGVzdF9yYW1wX2NvbG9ycz11c2VyZGF0
-YSgidTgiLDEwLDI3LCIwMDE4MDgxOTA5MGExYTBiMWIwMDA2MDAwMDAwMDAwMDAwMDAwMzAwMTYw
-MDAwMDAwMDAwMDAwMDEzMDAwNTAwMDAwMDAwMDAwMDAwMDEwMDBkMDAwMDAwMDAwMDAwMDAxMDAw
-MWQwMDAwMDAwMDAwMDAwMDExMDAxNzAwMDAwMDAwMDAwMDAwMGMwMDBlMDAwMDAwMDAwMDAwMDAx
-YzAwMWUxMjAyMTUxNDA0MWYwZjA3MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTQwNDFmMGYwODE4
-MDIwMDAwMTUwNTE2MDYwNzE3MGUxZTAwMDAwMTEwMTEwYzFjMWQwZDEyMDAwMDEzMDMxYjBiMWEw
-YTA5MTkwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+dHJ1ZSx0cnVlLHRydWUsdHJ1ZSx0cnVlLHRydWUsdHJ1ZSx0cnVlLHRydWUsZmFsc2UsZmFsc2Us
+ZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFs
+c2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2Us
+ZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFs
+c2V9LG1vZGlmaWVkPSIyMDI1LTA3LTEwIDAyOjIwOjI0Iixva3BhbF92ZXJzaW9uPSIxLjIuMiIs
+cGlja2Vyc19tb2RlPSJsaW5lYXJfaHVlIixyZXZpc2lvbj00NzYsdGVzdF9jdWJlX2NvbG9ycz17
+WzBdPXsxNSwzMSw0fSx7MzEsNCwyMH0sezQsMjAsMjF9LHsxMCw5LDI1fSx7OSwyNSwyNH0sezgs
+MjQsMn0sezI2LDExLDI3fSx7MTEsMjcsM30sezI3LDMsMTl9LHsyOCwxNywxOX0sezI4LDEyLDE2
+fSx7MTIsMTYsMX0sezYsMjksMTN9LHsyOSwxMywxOH0sezEzLDE4LDF9LHs3LDIzLDE0fSx7MjMs
+MTQsMTN9LHsxNCwzMCwxOH0sezcsNiwyMn0sezYsMjIsNX0sezIyLDUsMjF9LHsxLDEsMX0sezEs
+MSwxfSx7MSwxLDF9fSx0ZXN0X21vZGU9ImN1YmVzIix0ZXN0X3JhbXBfY29sb3JzPXVzZXJkYXRh
+KCJ1OCIsMTAsMjcsIjAwMTgwODE5MDkwYTFhMGIxYjAwMDYwMDAwMDAwMDAwMDAwMDAzMDAxNjAw
+MDAwMDAwMDAwMDAwMTMwMDA1MDAwMDAwMDAwMDAwMDAwMTAwMGQwMDAwMDAwMDAwMDAwMDEwMDAx
+ZDAwMDAwMDAwMDAwMDAwMTEwMDE3MDAwMDAwMDAwMDAwMDAwYzAwMGUwMDAwMDAwMDAwMDAwMDFj
+MDAxZTEyMDIxNTE0MDQxZjBmMDcwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxNDA0MWYwZjA4MTgw
+MjAwMDAxNTA1MTYwNjA3MTcwZTFlMDAwMDAxMTAxMTBjMWMxZDBkMTIwMDAwMTMwMzFiMGIxYTBh
+MDkxOTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
 MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
 MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
 MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
-MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiKSx3aGl0ZXN0X2NvbG9y
-PTddXWx6NAAPAQAAFQIAAPUFdXNlcmRhdGEoImkzMiIsNjQsIjABAMAxZDJiNTMwMDdlMjUIAPAX
-MDA4NzUxMDBhYjUyMzYwMDVmNTc0ZjAwYzJjM2M3MDBmZmYxZTgIAEAwMDRkCAARYTYAYGZmZWMy
-NwoAIGU0OABAMjlhZCQAYDgzNzY5YyAAMTc3YTgAsGNjYWEwMDI0NjNiLwDwHjBhNWExMDA2NTQ2
-ODgwMDEyNTM1OTAwNzQyZjI5MDA0NTJkMzIwMGEyODg3OUAA8A1hY2M1MDBiOTAwM2UwMGUyNmIw
-MjAwOTVmMDQyUAAgYjLAAKA2NGRmZjYwMGJkiQAAlgBAMGRhYkAAMDg1NagAEWQCAA8BAOFQMDAw
-Iik=
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCIpLHdoaXRlc3RfY29sb3I9
+N11dbHo0ABYBAAAVAgAA9QV1c2VyZGF0YSgiaTMyIiw2NCwiMAEAwDFkMmI1MzAwN2UyNQgA8Bcw
+MDg3NTEwMGFiNTIzNjAwNWY1NzRmMDBjMmMzYzcwMGZmZjFlOAgAQDAwNGQIABFhNgBgZmZlYzI3
+CgAgZTQ4AEAyOWFkJABgODM3NjljIAAxNzdhOACwY2NhYTAwMjQ2M2IvAPAeMGE1YTEwMDY1NDY4
+ODAwMTI1MzU5MDA3NDJmMjkwMDQ1MmQzMjAwYTI4ODc5QADwDWFjYzUwMGI5MDAzZTAwZTI2YjAy
+MDA5NWYwNDJQACBiMsAAoDY0ZGZmNjAwYmSJAACWAEAwZGFiQAAwODU1qAARZAIAAJAATzI5ODAB
+ANlQMDAwIik=
 :: pal/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA3LTA2IDIyOjM1OjQ5Iixtb2RpZmllZD0iMjAyNS0w
-Ny0wNyAwMjo0MTozMyJdXQ==
+Ny0xMCAxODowMDozOCJdXQ==
 :: sfx/
 :: sfx/0.sfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA3LTA2IDIxOjU3OjAzIixtb2RpZmllZD0iMjAyNS0w
-Ny0wNyAwMjo0MTozMyIscmV2aXNpb249Mzg2XV1sejQApQAAACgKAAD-MHB4dQADKAAABAAED0AQ
+Ny0xMCAxODowMDozOCIscmV2aXNpb249NjQwXV1sejQApQAAACgKAAD-MHB4dQADKAAABAAED0AQ
 Ag4AAaABIAKgDgAPEAAN8MoBAgNADw_QBAUGB0AMkAgJCgtADJAPDA8NDw4MQAzw-wEA6-8nqgEQ
 Bg8gEAEgASAB8AACEAIOEAEgDyEgATAPQPDDDygP--DGD-gKD-8PgA-3Dw0B8AkBEAYOMAD-----
 -70f-wEArM-ID0AADxBA--_w8HALAA0f-wEA-_ZQ-----00=
 :: sfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA3LTA3IDAyOjQxOjMzIixtb2RpZmllZD0iMjAyNS0w
-Ny0wNyAwMjo0MTozMyJdXQ==
+Ny0xMCAxODowMDozOCJdXQ==
 :: main.lua
---[[pod_format="raw",created="2025-07-06 21:57:03",modified="2025-07-07 02:41:33",revision=527]]
+--[[pod_format="raw",created="2025-07-06 21:57:03",modified="2025-07-10 18:00:38",revision=882]]
 include("utils.lua")
 
 function _init()
@@ -107,10 +120,21 @@ function _init()
 		sprites={2,3}
 	}
 	bullets = {}
+	enemies = {}
+	etypes = {
+		hunter = {
+			sprites = {
+				left = {48, 	49, 50},
+				right = {56,57, 58},
+				front = {32, 33, 34},
+				back = {40, 41, 42}
+	}}}
+	create_enemy(player.x+50, player.y+50,1,etypes.hunter)
 	frame = 0
 	mouse_enabled = true
 	vid()
 	fetch("pal/0.pal"):poke(0x5000)
+	poke(0x5f58, 0x1 | 0x2 | 0x4 | 0x8)
 end
 
 function _update()
@@ -147,9 +171,10 @@ function _update()
 	
 	-- bullets
 	if btnp(4) or mouse_b == 0x1 or key("q")  then
-		create_bullet(player.x+8+10*cos(player.angle), player.y+8+10*sin(-player.angle),player.angle, 5, 1)
+		create_bullet(player.x+8+20*cos(player.angle), player.y+8+20*sin(-player.angle),player.angle, 1, 3)
 	end
 	update_bullets()
+	update_enemies()
 	
 	-- frame	
 	frame += 1
@@ -160,6 +185,11 @@ function _draw()
 	map(1)
 	-- player
 	spr(get_frame(frame, player.sprites, 8), player.x, player.y)
+	-- bullets
+	draw_bullets()
+	-- enemies
+	print(enemies[1].angle)
+	draw_enemies()
 	-- gun
 	rspr(8, player.x+8+10*cos(player.angle), player.y+8+10*sin(-player.angle),1,1,player.angle)
 	if mouse_enabled then
@@ -167,24 +197,22 @@ function _draw()
 		local mouse_x, mouse_y = mouse()
 		spr(9, camx+mouse_x, camy+mouse_y)
 	end
-	draw_bullets()
 end
 
 function create_bullet(x,y,angle,speed,size)
-	add(bullets,
-		{
-			x=x,
-			y=y,
-			angle=angle, 
-			speed=speed,
-			size=size
-	})
+	local b = {}
+	b.x=x
+	b.y=y
+	b.angle=angle
+	b.speed=speed
+	b.size=size
+	add(bullets,b)
 end
 
 function update_bullets()
 	foreach(bullets, function (bullet)
 		bullet.x += bullet.speed*cos(bullet.angle)
-		bullet.y += bullet.speed*sin(bullet.angle)
+		bullet.y -= bullet.speed*sin(bullet.angle)
 		if abs(player.x-bullet.x)>(240+bullet.size) or abs(player.y-bullet.y)>(135+bullet.size) then
 			del(bullets, bullet)
 		end
@@ -193,11 +221,53 @@ end
 
 function draw_bullets()
 	foreach(bullets, function(bullet)
-		circfill(bullet.x,bullet.y,10)
+		circfill(bullet.x,bullet.y,bullet.size,10)
 	end)
 end
+
+function create_enemy(x,y, speed, etype)
+	local e = {}
+	e.x=x
+	e.y=y
+	e.angle=atan2(x-player.x, y-player.y)+0.5
+	if e.angle > 1 then
+		e.angle -= 1
+	end
+	e.speed=speed
+	e.sprites=etype.sprites
+	add(enemies,e)
+end
+
+function update_enemies()
+	foreach(enemies, function (enemy)
+		enemy.angle=atan2(enemy.x-player.x, enemy.y-player.y)+0.5
+		enemy.x += enemy.speed*cos(enemy.angle)
+		enemy.y += enemy.speed*sin(enemy.angle)
+	end)
+end
+
+function draw_enemies()
+	foreach(enemies, function(enemy)
+		local sprites = {}
+		if enemy.angle > 0.125 and enemy.angle <= 0.375 then
+			printh("back:"..enemy.angle)
+			sprites = enemy.sprites.back
+		elseif enemy.angle > 0.3 and enemy.angle <= 0.625 then
+			printh("left:"..enemy.angle)
+			sprites = enemy.sprites.left
+		elseif enemy.angle > 0.625 and enemy.angle <= 0.875 then
+			printh("front:"..enemy.angle)
+			sprites = enemy.sprites.front
+		else
+			printh("right:"..enemy.angle)
+			sprites = enemy.sprites.right
+		end
+		spr(get_frame(frame,sprites, 10), enemy.x, enemy.y)
+	end)
+end
+
 :: utils.lua
---[[pod_format="raw",created="2025-07-07 02:19:42",modified="2025-07-07 02:41:33",revision=22]]
+--[[pod_format="raw",created="2025-07-07 02:19:42",modified="2025-07-10 18:00:38",revision=281]]
 function get_frame(sframe, sprites, speed)
 	return sprites[flr(sframe / speed) % #sprites + 1]
 end
@@ -297,10 +367,9 @@ end
 
 :: .info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA3LTA2IDIyOjQ4OjAxIixtb2RpZmllZD0iMjAyNS0w
-Ny0wNyAwMjo0MTozMyIscnVudGltZT0xOCx3b3Jrc3BhY2VzPXt7bG9jYXRpb249Im1haW4ubHVh
-IzcyIix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJ1dGlscy5sdWEjOTciLHdvcmtzcGFj
+Ny0xMCAxODowMDozOCIscnVudGltZT0xOCx3b3Jrc3BhY2VzPXt7bG9jYXRpb249Im1haW4ubHVh
+IzE0OCIsd29ya3NwYWNlX2luZGV4PTF9LHtsb2NhdGlvbj0idXRpbHMubHVhIzEiLHdvcmtzcGFj
 ZV9pbmRleD0xfSx7bG9jYXRpb249ImdmeC8wLmdmeCIsd29ya3NwYWNlX2luZGV4PTJ9LHtsb2Nh
 dGlvbj0ibWFwLzAubWFwIix3b3Jrc3BhY2VfaW5kZXg9M30se2xvY2F0aW9uPSJzZngvMC5zZngi
-LHdvcmtzcGFjZV9pbmRleD00fSx7bG9jYXRpb249InBhbC8wLnBhbCIsd29ya3NwYWNlX2luZGV4
-PTd9fV1d
+LHdvcmtzcGFjZV9pbmRleD00fX1dXQ==
 :: [eoc]
