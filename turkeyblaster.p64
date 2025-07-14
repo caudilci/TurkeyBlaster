@@ -4,7 +4,7 @@ version 2
 :: gfx/
 :: gfx/0.gfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA3LTA2IDIxOjU3OjAzIixtb2RpZmllZD0iMjAyNS0w
-Ny0xNCAwMjozNjowNiIscmV2aXNpb249MTA4NF1dbHo0AHIFAAC1OAAA8yF7WzBdPXtibXA9cHh1
+Ny0xNCAwMjo1Nzo0MSIscmV2aXNpb249MTEwN11dbHo0AHIFAAC1OAAA8yF7WzBdPXtibXA9cHh1
 AEMgEBAE8FYHEAfAF9AXwAcQB-BWLGZsYWdzPTAscGFuX3gIAMp5PTAsem9vbT02fSw_APBEICgA
 KHAJDx0PIA8dCJAJDxkvHQ0gHxRQDxgfHQ0wBC8UMAgPHR0QHxQULhAPGAgtAD4ULgAIPV4ELgAd
 Dh0OJC4EDhAODQ4NDkQuBA4ATiQeBB4IAP8OFC4ELiBOBC4EDlBONJAJEAmwCRAJkBkPGRAMGTCj
@@ -32,20 +32,21 @@ MCoXOhAAJVcaBgADEgABIgAf2iQCHw8xAP------------------------------------------
 -----1pQbT02fX0=
 :: gfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA3LTA3IDAyOjQxOjMzIixtb2RpZmllZD0iMjAyNS0w
-Ny0xNCAwMjozNjowNiJdXQ==
+Ny0xNCAwMjo1Nzo0MiJdXQ==
 :: map/
 :: map/0.map
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA3LTA2IDIxOjU3OjAzIixtb2RpZmllZD0iMjAyNS0w
-Ny0xNCAwMjozNjowNiIscmV2aXNpb249OTkzXV1sejQAYAEAAF0AAQDxCXt7Ym1wPXVzZXJkYXRh
-KCJpMTYiLDEyOAQAXyIwMDEwBAD-------------------------------------------------
+Ny0xNCAwMjo1Nzo0MSIscmV2aXNpb249MTAxOV1dbHo0AHIBAAB2AAEA8Ql7e2JtcD11c2VyZGF0
+YSgiaTE2IiwxMjgEAF8iMDAxMAQA------------------------------------------------
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
-----------------------------------------------------------------6fEIIiksaGlk
-ZGVuPWZhbHNlLHBhbl94PTAIANJ5PTAsdGlsZV9oPTE2CgAQdwoAsHpvb209MC4yNX19
+-----------------------------------------------------------------_nwEiIpLGhp
+ZGRlbj1mYWxzZSxwYW5feD0xMDI1LjU3MTQyOAYAARYAdXk9MTAxNi4VALIzLHRpbGVfaD0xNgoA
+EHcKAIB6b29tPTd9fQ==
 :: map/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA3LTA3IDAyOjQxOjMzIixtb2RpZmllZD0iMjAyNS0w
-Ny0xNCAwMjozNjowNiJdXQ==
+Ny0xNCAwMjo1Nzo0MiJdXQ==
 :: pal/
 :: pal/0.pal
 b64$LS1bW3BvZCxiZ19jb2xvcj0wLGJsYWNrZXN0X2NvbG9yPTAsY3JlYXRlZD0iMjAyNS0wNy0w
@@ -73,8 +74,8 @@ dHJ1ZSx0cnVlLHRydWUsdHJ1ZSx0cnVlLHRydWUsdHJ1ZSx0cnVlLHRydWUsZmFsc2UsZmFsc2Us
 ZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFs
 c2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2Us
 ZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFs
-c2V9LG1vZGlmaWVkPSIyMDI1LTA3LTE0IDAyOjM2OjA2Iixva3BhbF92ZXJzaW9uPSIxLjIuMiIs
-cGlja2Vyc19tb2RlPSJsaW5lYXJfaHVlIixyZXZpc2lvbj04MTksdGVzdF9jdWJlX2NvbG9ycz17
+c2V9LG1vZGlmaWVkPSIyMDI1LTA3LTE0IDAyOjU3OjQxIixva3BhbF92ZXJzaW9uPSIxLjIuMiIs
+cGlja2Vyc19tb2RlPSJsaW5lYXJfaHVlIixyZXZpc2lvbj04NDEsdGVzdF9jdWJlX2NvbG9ycz17
 WzBdPXsxNSwzMSw0fSx7MzEsNCwyMH0sezQsMjAsMjF9LHsxMCw5LDI1fSx7OSwyNSwyNH0sezgs
 MjQsMn0sezI2LDExLDI3fSx7MTEsMjcsM30sezI3LDMsMTl9LHsyOCwxNywxOX0sezI4LDEyLDE2
 fSx7MTIsMTYsMX0sezYsMjksMTN9LHsyOSwxMywxOH0sezEzLDE4LDF9LHs3LDIzLDE0fSx7MjMs
@@ -98,21 +99,21 @@ MDA5NWYwNDJQACBiMsAAoDY0ZGZmNjAwYmSJAACWAEAwZGFiQAAwODU1qAARZAIAAJAATzI5ODAB
 ANlQMDAwIik=
 :: pal/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA3LTA2IDIyOjM1OjQ5Iixtb2RpZmllZD0iMjAyNS0w
-Ny0xNCAwMjozNjowNiJdXQ==
+Ny0xNCAwMjo1Nzo0MiJdXQ==
 :: sfx/
 :: sfx/0.sfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA3LTA2IDIxOjU3OjAzIixtb2RpZmllZD0iMjAyNS0w
-Ny0xNCAwMjozNjowNiIscmV2aXNpb249OTc4XV1sejQA9gAAAHEKAAD-MHB4dQADKAAABAAED0AQ
-Ag4AAaABIAKgDgAPEAAN8MoBAgNADw_QBAUGB0AMkAgJCgtADJAPDA8NDw4MQAzw-wEA6-8nqgEQ
-Bg8gEAEgASAB8AACEAIOEAEgDyEgATAPQPDDDygP--DGD-gKD-8PgA-3Dw0B8AkBEAYOMAD-----
--70f-wEArPEsyA9AAA8QQA83DzoPOw89Dz8PPQ9BD0IPQx9ED0APNQ8tDyUPIg4PHw8eHx0PHg4P
-Ig8nDy4PMQ80DzkyAPIJOg83DzAfJ---DE8WAP0O--8M-hTzDPBwVwAv87AKAAIf-wEA-_ZQ----
--00=
+Ny0xNCAwMjo1Nzo0MSIscmV2aXNpb249MTAwMF1dbHo0APYAAABxCgAA-zBweHUAAygAAAQABA9A
+EAIOAAGgASACoA4ADxAADfDKAQIDQA8PkAQFBgdADJAICQoLQAyQDwwPDQ8ODEAM8P8BAOv-J6oB
+EAYPIBABIAEgAfAAAhACDhABIA8hIAEwD0Dwww8oD--wxg-4Cg--D4AP9w8NAfAJARAGDjAA----
+--_9H-8BAKzxLMgPQAAPEEAPNw86DzsPPQ8-Dz0PQQ9CD0MfRA9ADzUPLQ8lDyIODx8PHh8dDx4O
+DyIPJw8uDzEPNA85MgDyCToPNw8wHyf--wxPFgD9Dv--DP4U8wzwcFcAL-OwCgACH-8BAP-mUP--
+--9N
 :: sfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA3LTA3IDAyOjQxOjMzIixtb2RpZmllZD0iMjAyNS0w
-Ny0xNCAwMjozNjowNiJdXQ==
+Ny0xNCAwMjo1Nzo0MiJdXQ==
 :: bullets.lua
---[[pod_format="raw",created="2025-07-12 05:07:27",modified="2025-07-14 02:36:06",revision=324]]
+--[[pod_format="raw",created="2025-07-12 05:07:27",modified="2025-07-14 02:57:41",revision=346]]
 function init_bullets()
 	bullets = {}
 	return bullets
@@ -152,7 +153,7 @@ function draw_bullets()
 	end)
 end
 :: enemies.lua
---[[pod_format="raw",created="2025-07-12 05:07:16",modified="2025-07-14 02:36:06",revision=318]]
+--[[pod_format="raw",created="2025-07-12 05:07:16",modified="2025-07-14 02:57:41",revision=340]]
 function init_enemies()
 	enemies = {}
 	etypes = {
@@ -216,7 +217,7 @@ function draw_enemies()
 	end)
 end
 :: expgems.lua
---[[pod_format="raw",created="2025-07-12 05:14:16",modified="2025-07-14 02:36:06",revision=324]]
+--[[pod_format="raw",created="2025-07-12 05:14:16",modified="2025-07-14 02:57:41",revision=346]]
 function init_expgems()
 	expgems = {}
 	return expgems
@@ -244,7 +245,7 @@ function draw_expgems()
 	end)
 end
 :: main.lua
---[[pod_format="raw",created="2025-07-06 21:57:03",modified="2025-07-14 02:36:06",revision=1330]]
+--[[pod_format="raw",created="2025-07-06 21:57:03",modified="2025-07-14 02:57:41",revision=1357]]
 include("utils.lua")
 include("enemies.lua")
 include("bullets.lua")
@@ -301,7 +302,7 @@ end
 
 
 :: player.lua
---[[pod_format="raw",created="2025-07-12 05:07:42",modified="2025-07-14 02:36:06",revision=355]]
+--[[pod_format="raw",created="2025-07-12 05:07:42",modified="2025-07-14 02:57:41",revision=382]]
 function init_player()
 	player = {
 		sizex = 16,
@@ -338,17 +339,17 @@ function init_player()
 end
 
 function update_player()
-		-- movement
-	if btn(0) or key("a") then
+	-- movement
+	if player.x > 0 and btn(0) or key("a") then
 		player.x -= 1*player.speed
 	end
-	if btn(1) or key("d") then
+	if player.x < 126*16 and btn(1) or key("d") then
 		player.x += 1*player.speed
 	end
-	if btn(2) or key("w") then
+	if player.y > 0 and btn(2) or key("w") then
 		player.y -= 1*player.speed
 	end
-	if btn(3) or key("s") then
+	if player.y < 127*16 and btn(3) or key("s") then
 		player.y += 1*player.speed
 	end
 	
@@ -432,7 +433,7 @@ function draw_active_reload()
 	line(currentx, player.y-8,currentx, player.y-4, 7)
 end
 :: utils.lua
---[[pod_format="raw",created="2025-07-07 02:19:42",modified="2025-07-14 02:36:06",revision=655]]
+--[[pod_format="raw",created="2025-07-07 02:19:42",modified="2025-07-14 02:57:41",revision=678]]
 function get_frame(sframe, sprites, speed)
 	return sprites[flr(sframe / speed) % #sprites + 1]
 end
@@ -538,11 +539,11 @@ function check_collision(x1,y1,w1,h1, x2,y2,w2,h2)
 end
 :: .info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA3LTA2IDIyOjQ4OjAxIixtb2RpZmllZD0iMjAyNS0w
-Ny0xNCAwMjozNjowNiIscnVudGltZT0xOCx3b3Jrc3BhY2VzPXt7bG9jYXRpb249Im1haW4ubHVh
-IzEiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249InV0aWxzLmx1YSMxIix3b3Jrc3BhY2Vf
-aW5kZXg9MX0se2xvY2F0aW9uPSJidWxsZXRzLmx1YSMxNiIsd29ya3NwYWNlX2luZGV4PTF9LHts
-b2NhdGlvbj0iZW5lbWllcy5sdWEjMzUiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249InBs
-YXllci5sdWEjMTI2Iix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJleHBnZW1zLmx1YSMx
+Ny0xNCAwMjo1Nzo0MiIscnVudGltZT0xOCx3b3Jrc3BhY2VzPXt7bG9jYXRpb249Im1haW4ubHVh
+IzM1Iix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJ1dGlscy5sdWEjMSIsd29ya3NwYWNl
+X2luZGV4PTF9LHtsb2NhdGlvbj0iYnVsbGV0cy5sdWEjMTYiLHdvcmtzcGFjZV9pbmRleD0xfSx7
+bG9jYXRpb249ImVuZW1pZXMubHVhIzM1Iix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJw
+bGF5ZXIubHVhIzM3Iix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJleHBnZW1zLmx1YSMx
 Iix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJnZngvMC5nZngiLHdvcmtzcGFjZV9pbmRl
 eD0yfSx7bG9jYXRpb249Im1hcC8wLm1hcCIsd29ya3NwYWNlX2luZGV4PTN9LHtsb2NhdGlvbj0i
 c2Z4LzAuc2Z4Iix3b3Jrc3BhY2VfaW5kZXg9NH0se2xvY2F0aW9uPSJwYWwvMC5wYWwiLHdvcmtz
